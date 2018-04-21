@@ -6,3 +6,7 @@ class Cat
   end
 
 end
+
+cat = Cat.new
+cat.name
+cat.meow
